@@ -1,4 +1,4 @@
-# Flappy-game
+# Flappy Bird 
 This is a flappy bird game developed by using py game modules
 
 
